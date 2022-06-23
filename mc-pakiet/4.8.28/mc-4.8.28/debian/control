@@ -1,0 +1,22 @@
+Source: mc
+Section: unknown
+Priority: optional
+Maintainer: Adrian NDH <nda@mail.home>
+Build-Depends: debhelper-compat (= 13), autotools-dev, zlib1g-dev:i386,
+  libslang2-dev:i386, libglib2.0-0:i386, libssh2-1-dev:i386, libmagic-mgc,
+  mailcap, libperl5.32:i386, libicu67:i386, libpcre3-dev:i386,
+  libglib2.0-dev:i386, policykit-1, libslang2:i386, libmagic1:i386,
+  shared-mime-info, libgtk-3-bin, unzip, mawk, pkg-config, gettext,
+  libfakeroot:i386, tzdata, libxml2:i386, appstream, libunistring2:i386,
+  groff-base, file, gnome-control-center-data 
+Standards-Version: 4.5.1
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/mc
+#Vcs-Git: https://salsa.debian.org/debian/mc.git
+Rules-Requires-Root: no
+
+Package: mc
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: GNU Midnight Commander is a visual file manager.
+ GNU Midnight Commander is a visual file manager, licensed under GNU General Public License and therefore qualifies as Free Software. It's a feature rich full-screen text mode application that allows you to copy, move and delete files and whole directory trees, search for files and run commands in the subshell. Internal viewer and editor are included. 

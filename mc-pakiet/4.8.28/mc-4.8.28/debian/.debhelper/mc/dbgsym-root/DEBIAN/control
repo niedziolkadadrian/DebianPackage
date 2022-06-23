@@ -1,0 +1,12 @@
+Package: mc-dbgsym
+Source: mc
+Version: 4.8.28-1
+Auto-Built-Package: debug-symbols
+Architecture: i386
+Maintainer: Adrian NDH <nda@mail.home>
+Installed-Size: 1255
+Depends: mc (= 4.8.28-1)
+Section: debug
+Priority: optional
+Description: debug symbols for mc
+Build-Ids: 40e06034ed811e52a3ac1280c613fbbcb31e8109 69041ac4cef5e1decf06c78cbaa9531f7ee9b506

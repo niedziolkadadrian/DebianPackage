@@ -1,0 +1,4 @@
+perl:Depends=perl:any
+shlibs:Depends=libc6 (>= 2.15), libglib2.0-0 (>= 2.59.2), libslang2 (>= 2.2.4), libssh2-1 (>= 1.2.8)
+misc:Depends=
+misc:Pre-Depends=

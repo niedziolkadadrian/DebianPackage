@@ -1,0 +1,55 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 23 Jun 2022 05:50:29 -0400
+Source: mc
+Binary: mc mc-dbgsym
+Architecture: source i386
+Version: 4.8.28-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Adrian NDH <nda@mail.home>
+Changed-By: Adrian NDH <nda@mail.home>
+Description:
+ mc         - GNU Midnight Commander is a visual file manager.
+Changes:
+ mc (4.8.28-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 8c49040df6598522236af0ede633f2ab85e40ee5 1929 mc_4.8.28-1.dsc
+ 4d8a0b94786a1c22cf17c6209aed12de6d90d450 2333072 mc_4.8.28.orig.tar.xz
+ 9c971232bc55a6b297caff12fa2fc070e298ebdd 8216 mc_4.8.28-1.debian.tar.xz
+ 988f0c7ca5c5221c3fa10539171f1a7c4ef25891 1166560 mc-dbgsym_4.8.28-1_i386.deb
+ cb6a318d4bc6f9f88114aedda24e7b48e8d7f2e4 12391 mc_4.8.28-1_i386.buildinfo
+ 80556c2a1a16b80eb0d814fa6ed2af6b7adb83bf 1778852 mc_4.8.28-1_i386.deb
+Checksums-Sha256:
+ 214edd7b94d68c249f3b98668a8773a319ff07b3aa336e2fee14de00f439ecec 1929 mc_4.8.28-1.dsc
+ e994d9be9a7172e9ac4a4ad62107921f6aa312e668b056dfe5b8bcebbaf53803 2333072 mc_4.8.28.orig.tar.xz
+ fb363b43f2a2011cb37e274caa6c006a66ab73af73cb9211e1dbfe3b10e14f2b 8216 mc_4.8.28-1.debian.tar.xz
+ 76356e5f87fe786d0d7a64b6b24339af1b9057bb31d30e0ab8f4ec7e5998108b 1166560 mc-dbgsym_4.8.28-1_i386.deb
+ b89ff67c74dbb17078b24467490b2463d3a1542a4678f3ed82b5d9e23662316a 12391 mc_4.8.28-1_i386.buildinfo
+ b10db83a20b53b5524d003021346dd47379804d3935ebb0fbda2b582e9643610 1778852 mc_4.8.28-1_i386.deb
+Files:
+ 2db3c11f60b30e20783118c30ba6b169 1929 unknown optional mc_4.8.28-1.dsc
+ 850063700c3025cfd2ae5e16a4a9b9e5 2333072 unknown optional mc_4.8.28.orig.tar.xz
+ 3f33a64a98ba06d150ef5089eb10d51b 8216 unknown optional mc_4.8.28-1.debian.tar.xz
+ 8026fa24570aaefc70f5f2794edd579a 1166560 debug optional mc-dbgsym_4.8.28-1_i386.deb
+ f530baf70b77c4406698e65a52a14e47 12391 unknown optional mc_4.8.28-1_i386.buildinfo
+ 71a640827d790f7042359a7ebf4cffdd 1778852 unknown optional mc_4.8.28-1_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHCBAEBCgAsFiEEZ73n7mtokeieTkml9OOTxi9+TgYFAmK0O20OHG5kYUBtYWls
+LmhvbWUACgkQ9OOTxi9+Tgb/ewwAmUnshgHLSBCNLT6++SxgnUJ8KnhIvImf066I
+G6cwfRMzMRb9plx6HzoDwny08gElO2ygdyrDXW001GRyKSOxVmeuPySkwQtCBEoP
+h1FIsJtZ67fbyGdpd2qYpe3MS9xWc+UAXnujaLRY5b/Ho1uk0I/n5wGThHexrKs9
+6ZWLuEbIdXL1iXIqb6q1qhbKVmQCpqoOmFXU3eV/2yNqx9YDbhEzh4FlX/uGPKwy
+vlnxCtDeKSgHTJWoWdM1qChgQlepRfnDQA2L4S/0sdsxglevVjIdcZNZ3fnVvJcI
+5EHibLPDrbQm6DrM+0Vzyh5f0Z3pIxuGl9nZE7Z61tKYSDZB4/nGTH8ph66KQWDE
+80yB2ONyzVwfxNHI8q9ie2I9Xf8kT/rF9f9EZtdoIFrOWZY2mmUvmp+ehjTbzzc6
+lRqkEEzDAhRZuo6QtPhTzZ02ZkIJ2jXtpa2XgsHXGe4+0glpwujiFIx1wd6qb+Ft
+hYV5JDAHrssQlwldlg5vtsf3JdZr
+=SW9x
+-----END PGP SIGNATURE-----

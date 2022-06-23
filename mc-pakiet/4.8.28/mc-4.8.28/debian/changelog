@@ -1,0 +1,5 @@
+mc (4.8.28-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Adrian NDH <nda@mail.home>  Thu, 23 Jun 2022 05:50:29 -0400
